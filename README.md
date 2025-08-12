@@ -32,7 +32,7 @@ A tiny, dependency‑free drum machine built with vanilla JavaScript. Hit **A–
 ├── index.html
 ├── style.css
 ├── script.js
-├── sounds/                # your audio files (not committed here)
+├── sounds/               
 └── README.md
 ```
 
@@ -88,9 +88,6 @@ No JavaScript change is needed—`script.js` looks up elements by `data-key`.
 2. In your repo: **Settings → Pages**.
 3. Select **Deploy from branch** → Branch: `main` → Folder: `/ (root)` → **Save**.
 4. Your site will appear at `https://<you>.github.io/<repo>/`.
-
-## 📜 License
-MIT (see `LICENSE` or replace with your preferred license).
 
 ## 🙌 Credits
 Inspired by the **JS30 Drum Kit** by Wes Bos. This variant adds touch support, volume/mute, and accessibility tweaks.
